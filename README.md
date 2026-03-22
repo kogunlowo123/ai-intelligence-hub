@@ -1,10 +1,12 @@
-# AI Intelligence Hub
+# AI Career Intelligence Hub
 
-**Complete AI Leadership Resource Hub** — 300+ curated resource links, 50+ GitHub repos, 12+ certification tracks, and 70+ video tutorials across every high-value AI role.
+**Product · Project · Program · Delivery**
+
+Complete AI leadership career resource hub — 285+ curated resource links, 60+ GitHub repos, 15 certification tracks, and 59 video tutorials across every high-value AI role.
 
 ## Live Site
 
-**[View the Hub](https://kogunlowo123.github.io/ai-intelligence-hub/)**
+**[View the Hub](https://kogunlowo123.github.io/ai-career-intelligence-hub/)**
 
 ## What's Inside
 
