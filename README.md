@@ -6,7 +6,7 @@ Complete AI leadership career resource hub — 285+ curated resource links, 60+ 
 
 ## Live Site
 
-**[View the Hub](https://kogunlowo123.github.io/ai-career-intelligence-hub/)**
+**[View the Hub](https://citadel-cloud-management.github.io/ai-career-intelligence-hub/)**
 
 ## What's Inside
 
